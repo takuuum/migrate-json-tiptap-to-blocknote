@@ -1,8 +1,8 @@
 # Migrate Editor Server
 
-SupabaseとNode.jsを使用したマイグレーションエディター用のAPIサーバー
+SupabaseとNode.jsを使用したマイグレーションエディター用のAPIサンプル
 
-サーバーサイドでBlocknoteを実装する際は、Node.jsサーバーを使用する必要があるため（Next.jsのAPI Routesは動作しない）、新しいプロジェクトを作成
+サーバーサイドでBlocknoteを実装する際は、Node.jsサーバーを使用する必要があるため（Next.jsのAPI Routesは動作しない）、純粋なNode.jsサーバーで作成
 
 ## セットアップ
 
