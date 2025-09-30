@@ -1,0 +1,21 @@
+{
+  "name": "migrate-editor-server",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@blocknote/server-util": "^0.37.0",
+    "@supabase/supabase-js": "^2.48.1",
+    "@tiptap/html": "^3.4.2",
+    "@tiptap/starter-kit": "^3.4.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.12.0"
+  }
+}
